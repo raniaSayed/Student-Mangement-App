@@ -1,0 +1,12 @@
+c:\users\mohamed veron\documents\visual studio 2013\Projects\college\college\obj\Debug\college.csprojResolveAssemblyReference.cache
+c:\users\mohamed veron\documents\visual studio 2013\Projects\college\college\bin\college.dll.config
+c:\users\mohamed veron\documents\visual studio 2013\Projects\college\college\bin\college.dll
+c:\users\mohamed veron\documents\visual studio 2013\Projects\college\college\bin\college.pdb
+c:\users\mohamed veron\documents\visual studio 2013\Projects\college\college\obj\Debug\college.dll
+c:\users\mohamed veron\documents\visual studio 2013\Projects\college\college\obj\Debug\college.pdb
+G:\college\bin\college.dll.config
+G:\college\bin\college.dll
+G:\college\bin\college.pdb
+G:\college\obj\Debug\college.csprojResolveAssemblyReference.cache
+G:\college\obj\Debug\college.dll
+G:\college\obj\Debug\college.pdb
